@@ -1,2 +1,2 @@
 # guesstheNumber
-guesstheNumber
+guesstheNumber using JavaScript
